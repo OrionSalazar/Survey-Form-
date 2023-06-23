@@ -1,0 +1,43 @@
+h1{background-color: cyan; 
+    text-align: center; 
+    border:5px solid black;
+    border-radius: 25px;
+    max-width: 1000px;
+
+}
+
+    form{
+    background-color: cyan; 
+    text-align: center; 
+    max-width: 1000px;
+    padding: 150px;
+    border: 2px solid black;
+    border-radius: 20px;  
+    }
+
+    p{
+        background-color: cyan; 
+        text-align: center; 
+        border: 2px solid black;
+    }
+
+    .input-element{
+        margin:5px; 
+        display: flex; 
+        flex-direction: column;}
+
+    input{
+    padding: 1px;
+    border: none;
+    border-radius: 10px;
+    }
+
+    select{
+    padding:5px;
+    border: none;
+    border-radius:15px;}
+
+    input[type="checkbox"]{
+        width:5px;
+        height: 5px;
+}
